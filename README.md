@@ -11,3 +11,5 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 
 ### How to run this application?
 To run this application, you need to clone the `how-to-add-a-custom-tool-to-the-vue-rich-text-editor-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
+
+>Looking for the full Vue Rich Text Editor component overview, features, pricing, and documentation? Visit the [Vue Rich Text Editor](https://www.syncfusion.com/vue-components/vue-wysiwyg-rich-text-editor) page.
